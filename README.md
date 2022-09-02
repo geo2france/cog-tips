@@ -1,10 +1,12 @@
 # Bonnes pratiques pour la génération de COG (Cloud Optimized GeoTIFF) avec GDAL
 
+:gb: english version >>> <https://github.com/Doctor-Who/cog-recipes>
+
 ## Pré-requis
 
 GDAL version >= 3.1
 
-Documentation du driver COG :gb: https://gdal.org/drivers/raster/cog.html
+Documentation du driver COG <https://gdal.org/drivers/raster/cog.html>
 
 ## Raster 1 bande : MNT, MNE en format ASC par exemple
 
