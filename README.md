@@ -1,5 +1,7 @@
 # Bonnes pratiques pour la génération de COG (Cloud Optimized GeoTIFF) avec GDAL
 
+![Logo_Geo2France](./img/geo2france_alt.png)
+
 :gb: english version >>> <https://github.com/Doctor-Who/cog-recipes>
 
 ## Pré-requis
