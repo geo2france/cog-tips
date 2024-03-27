@@ -95,7 +95,7 @@ gdal_translate.exe C:\ortho\my_orthophotography.vrt C:\ortho\my_orthophotography
 
 ## Cas particuliers
 
-:pray: @bchartier pour ces contributions ainsi que les commandes sous Windows.
+Merci :pray: à @bchartier pour ces contributions ainsi que les commandes sous Windows.
 
 ### Découper une image selon un contour (avant conversion en COG)
 
